@@ -1,0 +1,30 @@
+# Microsoft Developer Studio Generated Dependency File, included by execute.mak
+
+.\execute.cpp : \
+	".\execute.h"\
+	
+
+.\execute.rc : \
+	".\res\execute.rc2"\
+	
+
+.\Log.cpp : \
+	".\Log.h"\
+	
+
+.\Request.cpp : \
+	".\cfx.h"\
+	
+
+.\StdAfx.cpp : \
+	"..\..\..\..\program files\microsoft sdk\include\basetsd.h"\
+	"..\..\..\..\program files\microsoft sdk\include\guiddef.h"\
+	"..\..\..\..\program files\microsoft sdk\include\propidl.h"\
+	"..\..\..\..\program files\microsoft sdk\include\reason.h"\
+	"..\..\..\..\program files\microsoft sdk\include\shldisp.h"\
+	"..\..\..\..\program files\microsoft sdk\include\shobjidl.h"\
+	"..\..\..\..\program files\microsoft sdk\include\shtypes.h"\
+	"..\..\..\..\program files\microsoft sdk\include\stralign.h"\
+	"..\..\..\..\program files\microsoft sdk\include\tvout.h"\
+	".\StdAfx.h"\
+	
