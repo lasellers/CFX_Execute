@@ -51,7 +51,7 @@ v1.1 March 4th 2004
 int static counter=0;
 
 // (embedded copyright)
-const char* szcopyright="CFX_Execute 1.4a4 August 22st 2012. Copyright (c) 1999-2004, 2012 by Lewis A. Sellers. http://www.intrafoundation.com";
+const char* szcopyright="CFX_Execute 1.4c August 30th 2012. Copyright (c) 1999-2004, 2012 by Lewis A. Sellers. http://www.intrafoundation.com";
 
 //
 void ProcessTagRequest( CCFXRequest* pRequest ) 
